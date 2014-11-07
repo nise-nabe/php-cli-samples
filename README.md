@@ -39,3 +39,16 @@ This is the default task and the default action
 786432
 ```
 
+
+## Simple
+
+```
+$ cd simple
+$ time ./box.phar build
+Building...
+./box.phar build  0.10s user 0.03s system 98% cpu 0.127 total
+$ ./default.phar 
+
+This is the default task and the default action 
+262144
+```

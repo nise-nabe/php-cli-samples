@@ -1,0 +1,8 @@
+{
+    "chmod": "0755",
+    "directories": [
+    ],
+    "main": "bin/main.php",
+    "stub": true,
+    "intercept": true
+}
