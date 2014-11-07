@@ -2,6 +2,7 @@
 
 ```
 $ cd phalcon
+$ comoser update
 $ time ./box.phar build
 Building...
 ./box.phar build  0.11s user 0.03s system 87% cpu 0.161 total
@@ -15,6 +16,7 @@ This is the default task and the default action
 
 ```
 $ cd symfony
+$ comoser update
 $ time ./box.phar build
 Building...
 ./box.phar build  1.12s user 0.99s system 37% cpu 5.585 total
@@ -29,6 +31,7 @@ This is the default task and the default action
 
 ```
 $ cd aura
+$ comoser update
 $ time ./box.phar build
 Building...
 ./box.phar build  0.16s user 0.09s system 74% cpu 0.334 total
